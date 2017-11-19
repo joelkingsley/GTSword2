@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GirdThySword</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="all">all</string>
+    <string name="overdue">overdue</string>
+    <string name="today">today</string>
+    <string name="motivation_why_title">Why Memorize the Bible?</string>
+    <string name="motivation_why_verse">Ephesians 6:12-16</string>
+    <string name="motivation_why">12 For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.\n13 Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.\n14 Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;\n15 And your feet shod with the preparation of the gospel of peace;\n16 Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.\n17 And take the helmet of salvation, and the sword of the Spirit, which is the word of God:</string>
+    <string name="motivation_benefits_title">Benefits Derived From Memorizing Scripture</string>
+    <string name="motivation_benefits_text">(1) Better knowledge and understanding of scripture. (2) Personal enrichment and guidance from God. (3) Potentially increased faith.   (4) Improved ability to overcome temptations. (5) Greater ability to serve by teaching, counseling, refuting error, exhorting, etc.</string>
+    <string name="motivation_promise_title">Here are a few of God\'s promises associated with memorization/meditation:</string>
+    <string name="motivation_promise_text">Joshua 1:8 This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.\n\nPsalm 1:2-3 But his delight is in the law of the LORD; and in his law doth he meditate day and night. And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.\n\nJohn 15:7 If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.</string>
+    <string name="about"></string>
+    <string name="eph611">For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.\nEphesians 6:11</string>
+</resources>

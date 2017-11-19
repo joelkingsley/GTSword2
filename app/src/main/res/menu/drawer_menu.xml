@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/home"
+        android:icon="@drawable/action_home"
+    android:title="Home" />
+    <item
+        android:id="@+id/addsection"
+        android:icon="@drawable/action_motivation"
+        android:title="Add Section" />
+    <item
+        android:id="@+id/rewards"
+        android:icon="@drawable/action_rewards"
+        android:title="Rewards" />
+    <item
+        android:id="@+id/motivation"
+        android:icon="@drawable/ic_motivation"
+        android:title="Motivation" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/action_person"
+        android:title="Profile" />
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/action_share"
+        android:title="Share" />
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/action_about"
+        android:title="About" />
+</menu>
